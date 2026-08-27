@@ -1,0 +1,4 @@
+otpauth://totp/proxy-seller.com:G_111023689667080388192?secret=MEGAXQLIPVPBNH53CPV2LJU2ZWKHOZCT&issuer=proxy-seller.com
+otpauth://totp/Telnyx:nickr%40statxt.com?secret=77YYSJNKIMTIHXDTVUS5LRVMXBMLZWYF&issuer=Telnyx
+otpauth://totp/GitHub:super-eatsky?secret=P5PFNHHNIX4QAJ7I&issuer=GitHub
+otpauth://totp/GitHub:super-eatsky?secret=P5PFNHHNIX4QAJ7I&issuer=GitHub
